@@ -1,0 +1,44 @@
+src/routes/ui.ts
+  3d5dab8c8b9c50d6 4,8-15,41,55
+src/worker.ts
+  3d5dab8c8b9c50d6 4,106-108,110-112
+src/views/dashboard.ts
+  3d5dab8c8b9c50d6 107
+src/awt.ts
+  3d5dab8c8b9c50d6 67-82,84-86,88-98
+src/views/task-detail.ts
+  3d5dab8c8b9c50d6 46
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.1.1",
+  "base_commit_sha": "f044da806c6aa95ec72940ded64ff157a1d9a176",
+  "prompts": {
+    "32007d1b18e34eb4": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "0f9d4fcc-e718-4a4b-a382-b6b02cf19fe8",
+        "model": "claude-opus-4-6"
+      },
+      "human_author": "Alessio Fanelli <fanahova@gmail.com>",
+      "messages": [],
+      "total_additions": 0,
+      "total_deletions": 0,
+      "accepted_lines": 97,
+      "overriden_lines": 0
+    },
+    "3d5dab8c8b9c50d6": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "303176b2-5c01-403d-b640-1d324856f04b",
+        "model": "claude-opus-4-6"
+      },
+      "human_author": "Alessio Fanelli <fanahova@gmail.com>",
+      "messages": [],
+      "total_additions": 0,
+      "total_deletions": 0,
+      "accepted_lines": 50,
+      "overriden_lines": 0
+    }
+  }
+}
