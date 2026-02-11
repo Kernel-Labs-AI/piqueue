@@ -1,0 +1,49 @@
+src/pi-runner.ts
+  627f0ba11bbb3760 179-180
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.1.1",
+  "base_commit_sha": "7fb26043bc7c1412fa28bbafde2ee2bf86b0de42",
+  "prompts": {
+    "32007d1b18e34eb4": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "0f9d4fcc-e718-4a4b-a382-b6b02cf19fe8",
+        "model": "claude-opus-4-6"
+      },
+      "human_author": "Alessio Fanelli <fanahova@gmail.com>",
+      "messages": [],
+      "total_additions": 97,
+      "total_deletions": 0,
+      "accepted_lines": 97,
+      "overriden_lines": 0
+    },
+    "3d5dab8c8b9c50d6": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "303176b2-5c01-403d-b640-1d324856f04b",
+        "model": "claude-opus-4-6"
+      },
+      "human_author": "Alessio Fanelli <fanahova@gmail.com>",
+      "messages": [],
+      "total_additions": 102,
+      "total_deletions": 64,
+      "accepted_lines": 51,
+      "overriden_lines": 0
+    },
+    "627f0ba11bbb3760": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "cd949d7f-addd-4cd2-9684-019567bf5b70",
+        "model": "claude-opus-4-6"
+      },
+      "human_author": "Alessio Fanelli <fanahova@gmail.com>",
+      "messages": [],
+      "total_additions": 2,
+      "total_deletions": 2,
+      "accepted_lines": 2,
+      "overriden_lines": 0
+    }
+  }
+}
