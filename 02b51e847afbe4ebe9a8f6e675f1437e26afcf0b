@@ -1,0 +1,68 @@
+src/db/schema.ts
+  9dad15329fd42fa1 26
+src/db/index.ts
+  9dad15329fd42fa1 46-52
+src/views/task-detail.ts
+  9dad15329fd42fa1 43-49
+  0f66874407c89999 7-26,29-42,50-51,64,67-71,73-77,79-83,85-88,90-97
+src/views/layout.ts
+  0f66874407c89999 12-20,22,24-29,32-33,35,37,39-45,51-57,59-65,75-84,86-87,89-96,98-103,106,108-117,123-129,131,133-135,138,140-145,148-156,158-169,171,173-181,183-189,191-209,211,213,215-221,224,226,228-230,233-236,238,240,243-280,282,284-296,298-310,312-324,326,328,331-336,339-340,342-352
+  d6db2483a1dd93bc 1-2,66-73,358
+src/routes/api.ts
+  9dad15329fd42fa1 56
+src/pi-runner.ts
+  9dad15329fd42fa1 19
+src/awt.ts
+  9dad15329fd42fa1 67-68,71-72
+src/worker.ts
+  9dad15329fd42fa1 100-101,104,106,117
+src/views/dashboard.ts
+  0f66874407c89999 19-21,28-30,37,46-49,60,75,81-84,94-96,117-120,134
+  9dad15329fd42fa1 106-109
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.1.1",
+  "base_commit_sha": "02b51e847afbe4ebe9a8f6e675f1437e26afcf0b",
+  "prompts": {
+    "0f66874407c89999": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "7a9f5a44-5d0f-4c0f-b6f1-42816cea5c5f",
+        "model": "claude-opus-4-6"
+      },
+      "human_author": "Alessio Fanelli <fanahova@gmail.com>",
+      "messages": [],
+      "total_additions": 550,
+      "total_deletions": 309,
+      "accepted_lines": 376,
+      "overriden_lines": 0
+    },
+    "9dad15329fd42fa1": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3495a479-0bae-491a-8f50-efa539a82805",
+        "model": "claude-opus-4-6"
+      },
+      "human_author": "Alessio Fanelli <fanahova@gmail.com>",
+      "messages": [],
+      "total_additions": 30,
+      "total_deletions": 5,
+      "accepted_lines": 30,
+      "overriden_lines": 0
+    },
+    "d6db2483a1dd93bc": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "285c4417-0df4-4d2d-8e54-7e4a3d6deaef",
+        "model": "claude-opus-4-6"
+      },
+      "human_author": "Alessio Fanelli <fanahova@gmail.com>",
+      "messages": [],
+      "total_additions": 11,
+      "total_deletions": 1,
+      "accepted_lines": 11,
+      "overriden_lines": 0
+    }
+  }
+}
