@@ -1,0 +1,23 @@
+thoughts/shared/plans/2026-02-10-fix-awt-handoff-push-pr.md
+  32007d1b18e34eb4 1-97
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.1.1",
+  "base_commit_sha": "d634f6b319177f4f7726534e57d11cefd9fd3f1a",
+  "prompts": {
+    "32007d1b18e34eb4": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "0f9d4fcc-e718-4a4b-a382-b6b02cf19fe8",
+        "model": "claude-opus-4-6"
+      },
+      "human_author": "Alessio Fanelli <fanahova@gmail.com>",
+      "messages": [],
+      "total_additions": 0,
+      "total_deletions": 0,
+      "accepted_lines": 97,
+      "overriden_lines": 0
+    }
+  }
+}
