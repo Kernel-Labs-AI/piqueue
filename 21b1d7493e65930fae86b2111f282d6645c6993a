@@ -1,0 +1,60 @@
+scripts/deploy.sh
+  c12da6a1e95108db 39,48
+src/awt.ts
+  d7a93022564eef6d 40-41,44,46-48
+src/config.ts
+  c12da6a1e95108db 4
+package.json
+  d7a93022564eef6d 7
+DEPLOYMENT.md
+  c12da6a1e95108db 5-6,11,14-15,22-24,27-40,42-52,54-66,68-71,89-90,121,134-138,150
+README.md
+  c12da6a1e95108db 1-119
+src/views/task-detail.ts
+  d7a93022564eef6d 33-38,48
+src/server.ts
+  c12da6a1e95108db 2,24,26-28
+src/index.ts
+  c12da6a1e95108db 6-10
+Dockerfile
+  c12da6a1e95108db 4,22,24-25
+start.sh
+  c12da6a1e95108db 4-7
+src/routes/api.ts
+  d7a93022564eef6d 55
+fly.toml
+  c12da6a1e95108db 13
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.1.1",
+  "base_commit_sha": "21b1d7493e65930fae86b2111f282d6645c6993a",
+  "prompts": {
+    "c12da6a1e95108db": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "f501d702-9989-4f1d-8bd3-da30fbe950f3",
+        "model": "claude-opus-4-6"
+      },
+      "human_author": "Alessio Fanelli <fanahova@gmail.com>",
+      "messages": [],
+      "total_additions": 208,
+      "total_deletions": 35,
+      "accepted_lines": 200,
+      "overriden_lines": 2
+    },
+    "d7a93022564eef6d": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "aa70d02c-3883-4712-acf0-bcda07387eec",
+        "model": "claude-opus-4-6"
+      },
+      "human_author": "Alessio Fanelli <fanahova@gmail.com>",
+      "messages": [],
+      "total_additions": 15,
+      "total_deletions": 6,
+      "accepted_lines": 15,
+      "overriden_lines": 0
+    }
+  }
+}
