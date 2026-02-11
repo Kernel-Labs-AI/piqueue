@@ -1,0 +1,38 @@
+package.json
+  e2bfe855e5585fc5 8
+src/pi-runner.ts
+  e2bfe855e5585fc5 158,161-163
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.1.1",
+  "base_commit_sha": "b3abcafc564d1c68342100385f414aeacc8d78c0",
+  "prompts": {
+    "32007d1b18e34eb4": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "0f9d4fcc-e718-4a4b-a382-b6b02cf19fe8",
+        "model": "claude-opus-4-6"
+      },
+      "human_author": "Alessio Fanelli <fanahova@gmail.com>",
+      "messages": [],
+      "total_additions": 0,
+      "total_deletions": 0,
+      "accepted_lines": 97,
+      "overriden_lines": 0
+    },
+    "e2bfe855e5585fc5": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "b422d708-e817-48cd-8d43-0227b0f49a49",
+        "model": "claude-opus-4-6"
+      },
+      "human_author": "Alessio Fanelli <fanahova@gmail.com>",
+      "messages": [],
+      "total_additions": 5,
+      "total_deletions": 3,
+      "accepted_lines": 5,
+      "overriden_lines": 0
+    }
+  }
+}
