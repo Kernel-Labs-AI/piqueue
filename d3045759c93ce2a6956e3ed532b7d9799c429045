@@ -1,0 +1,41 @@
+README.md
+  fe9c71672232830b 63-66,71,91,114-115,120-127
+.env.example
+  fe9c71672232830b 8,12-15,30-39
+src/config.ts
+  fe9c71672232830b 1-22,24-25,29-38,47
+package.json
+  fe9c71672232830b 7
+src/worker.ts
+  fe9c71672232830b 1,59-72,82
+DEPLOYMENT.md
+  fe9c71672232830b 34-35,43-52,164
+start.sh
+  fe9c71672232830b 9-10
+src/index.ts
+  fe9c71672232830b 11-23
+src/routes/api.ts
+  fe9c71672232830b 1,3,10-135,137-138,141-158,160-174,176-183,185,187-191,200-205,217-224,226-229,251-252,270,291,302-315,322,332,353
+src/views/layout.ts
+  fe9c71672232830b 4-8,14,728,740-746
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.1.2",
+  "base_commit_sha": "d3045759c93ce2a6956e3ed532b7d9799c429045",
+  "prompts": {
+    "fe9c71672232830b": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019c5309-4947-79c3-a492-3511706d958e",
+        "model": "gpt-5.3-codex"
+      },
+      "human_author": "Alessio Fanelli <fanahova@gmail.com>",
+      "messages": [],
+      "total_additions": 349,
+      "total_deletions": 37,
+      "accepted_lines": 347,
+      "overriden_lines": 0
+    }
+  }
+}
