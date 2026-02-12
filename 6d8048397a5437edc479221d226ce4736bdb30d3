@@ -1,0 +1,37 @@
+src/config.ts
+  24a67dc0039e831a 7-15,38
+scripts/deploy.sh
+  24a67dc0039e831a 17,42
+src/index.ts
+  24a67dc0039e831a 23-28
+src/routes/api.ts
+  24a67dc0039e831a 68-72,77,82-86,94-95,98-99,101-102,109
+README.md
+  24a67dc0039e831a 57,63,66,115
+DEPLOYMENT.md
+  24a67dc0039e831a 34,93
+.env.example
+  24a67dc0039e831a 7-8
+src/routes/api.security.test.ts
+  24a67dc0039e831a 1-182
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.1.2",
+  "base_commit_sha": "6d8048397a5437edc479221d226ce4736bdb30d3",
+  "prompts": {
+    "24a67dc0039e831a": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019c534d-de80-7063-8972-a61475cb00ed",
+        "model": "gpt-5.3-codex"
+      },
+      "human_author": "Alessio Fanelli <fanahova@gmail.com>",
+      "messages": [],
+      "total_additions": 227,
+      "total_deletions": 64,
+      "accepted_lines": 227,
+      "overriden_lines": 0
+    }
+  }
+}
