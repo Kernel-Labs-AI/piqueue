@@ -1,0 +1,36 @@
+src/views/output.ts
+  a4cb2ca2322b0799 53,64,121-124
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.1.2",
+  "base_commit_sha": "be9dbbf1f934d294a889f6473a333fa619f84bea",
+  "prompts": {
+    "a4cb2ca2322b0799": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "c3ec7619-2347-476e-8857-24f68b463917",
+        "model": "claude-opus-4-6"
+      },
+      "human_author": "Alessio Fanelli <fanahova@gmail.com>",
+      "messages": [],
+      "total_additions": 9,
+      "total_deletions": 7,
+      "accepted_lines": 6,
+      "overriden_lines": 0
+    },
+    "ee9e10c66f59639b": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "9b279322-c358-4ec8-8a49-d7bb6ec2184e",
+        "model": "claude-opus-4-6"
+      },
+      "human_author": "Alessio Fanelli <fanahova@gmail.com>",
+      "messages": [],
+      "total_additions": 11,
+      "total_deletions": 2,
+      "accepted_lines": 9,
+      "overriden_lines": 0
+    }
+  }
+}
