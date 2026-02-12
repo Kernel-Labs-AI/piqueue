@@ -1,0 +1,35 @@
+src/views/layout.ts
+  ca53289dd32712b8 622,664-669
+src/db/schema.ts
+  ca53289dd32712b8 38,43
+src/routes/api.ts
+  ca53289dd32712b8 130-150
+src/db/index.ts
+  ca53289dd32712b8 40-41,54-63
+src/routes/ui.ts
+  ca53289dd32712b8 2,40
+thoughts/shared/plans/2026-02-12-homepage-layout-and-archive.md
+  ca53289dd32712b8 1-247
+src/views/dashboard.ts
+  ca53289dd32712b8 92,94,96-101
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.1.2",
+  "base_commit_sha": "3022dfa44967873d492e6fb25e67b6a91398f00e",
+  "prompts": {
+    "ca53289dd32712b8": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "bf26e414-3b5e-449e-b032-0a81cac36cb7",
+        "model": "claude-opus-4-6"
+      },
+      "human_author": "Alessio Fanelli <fanahova@gmail.com>",
+      "messages": [],
+      "total_additions": 303,
+      "total_deletions": 12,
+      "accepted_lines": 299,
+      "overriden_lines": 0
+    }
+  }
+}
