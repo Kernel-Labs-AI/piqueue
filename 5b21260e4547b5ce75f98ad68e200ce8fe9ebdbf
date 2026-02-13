@@ -1,0 +1,29 @@
+public/js/webhook.js
+  b8ea92440b1314da 42-118
+src/views/webhook.tsx
+  b8ea92440b1314da 62-92
+src/views/webhook.test.ts
+  b8ea92440b1314da 32-41
+public/css/app.css
+  b8ea92440b1314da 692-751
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.1.3",
+  "base_commit_sha": "5b21260e4547b5ce75f98ad68e200ce8fe9ebdbf",
+  "prompts": {
+    "b8ea92440b1314da": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019c57f9-cfa2-79e0-8541-9efc1740603f",
+        "model": "gpt-5.3-codex-spark"
+      },
+      "human_author": "Alessio Fanelli <fanahova@gmail.com>",
+      "messages": [],
+      "total_additions": 178,
+      "total_deletions": 0,
+      "accepted_lines": 178,
+      "overriden_lines": 0
+    }
+  }
+}
