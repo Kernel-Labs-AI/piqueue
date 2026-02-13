@@ -1,0 +1,23 @@
+src/views/task-detail.tsx
+  59d47127ebae3efa 15
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.1.3",
+  "base_commit_sha": "f678709bbaa61fe28e2a35e047561ff9c5cc4d44",
+  "prompts": {
+    "59d47127ebae3efa": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019c5598-ba88-7451-901c-ec2d98d057aa",
+        "model": "unknown"
+      },
+      "human_author": "Alessio Fanelli <fanahova@gmail.com>",
+      "messages": [],
+      "total_additions": 1,
+      "total_deletions": 5,
+      "accepted_lines": 1,
+      "overriden_lines": 0
+    }
+  }
+}
