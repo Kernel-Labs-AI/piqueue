@@ -1,0 +1,37 @@
+src/db/index.ts
+  6788e9bf699b2212 46-64
+src/worker.ts
+  6788e9bf699b2212 3,5,12-21,85,109-110,112,116-128
+src/routes/api.ts
+  6788e9bf699b2212 3-4,6,20-74,164,295-339
+src/test-fixtures/mock-pi-rpc.mjs
+  6788e9bf699b2212 7,48,50-84,90-92
+src/db/schema.ts
+  6788e9bf699b2212 1,49-75
+src/pi-runner.ts
+  6788e9bf699b2212 9-28,51-63,66-97,101,114,126-128,135-136,138-139,141-144,149,151-156,158-159,180,182,188-194,201-209,246-253,257-258,262-268,280-289,293-299,305,307-314,326-331
+src/routes/api.events.test.ts
+  6788e9bf699b2212 1-194
+src/pi-runner.test.ts
+  6788e9bf699b2212 1,3,6-7,99-151,175,202,210-212,214-219,233-265
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.1.3",
+  "base_commit_sha": "24b6c81eadc8c765b2f3baf8fd863fef39c53694",
+  "prompts": {
+    "6788e9bf699b2212": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019c559a-666d-72e1-b4bc-d8dfb0c7c930",
+        "model": "gpt-5.3-codex"
+      },
+      "human_author": "Alessio Fanelli <fanahova@gmail.com>",
+      "messages": [],
+      "total_additions": 700,
+      "total_deletions": 57,
+      "accepted_lines": 692,
+      "overriden_lines": 0
+    }
+  }
+}
