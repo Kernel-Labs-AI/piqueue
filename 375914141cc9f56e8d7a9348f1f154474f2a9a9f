@@ -1,0 +1,23 @@
+README.md
+  7dbeb0a23003aed3 6-7
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.1.3",
+  "base_commit_sha": "375914141cc9f56e8d7a9348f1f154474f2a9a9f",
+  "prompts": {
+    "7dbeb0a23003aed3": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019c5886-9a4c-7871-9901-16cedf689853",
+        "model": "gpt-5.3-codex"
+      },
+      "human_author": "Alessio Fanelli <fanahova@gmail.com>",
+      "messages": [],
+      "total_additions": 3,
+      "total_deletions": 0,
+      "accepted_lines": 2,
+      "overriden_lines": 1
+    }
+  }
+}
